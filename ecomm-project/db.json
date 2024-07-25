@@ -17,35 +17,7 @@
       "password": "Test@1234",
       "email": "pawan.tiwari@gmail.com",
       "id": 3
-    },
-    {
-      "name": "Piyush",
-      "password": "Test@123",
-      "email": "piyush@gmail.com",
-      "id": 4
-    },
-    {
-      "name": "rio",
-      "password": "Test@1234",
-      "email": "rio@gmail.com",
-      "id": 5
-    },
-    {
-      "name": "dummy",
-      "password": "Test@123",
-      "email": "dummy@gmail.com",
-      "id": 6
-    },
-    {
-      "name": "harry",
-      "password": "Test@1234",
-      "email": "niteesh.mishra29@gmail.com",
-      "id": 7
-    },
-    {
-      "email": "len_hutton@b2cdev.com",
-      "password": "Banker@1234",
-      "id": 8
     }
+
   ]
 }
