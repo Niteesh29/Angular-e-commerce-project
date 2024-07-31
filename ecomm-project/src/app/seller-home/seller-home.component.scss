@@ -1,0 +1,57 @@
+
+.page-heading 
+{
+    text-align: center;
+    color: blueviolet;
+}
+h5 
+{
+    text-align: center;
+    color: green;
+}
+.product-list
+{   display: flex;
+    justify-content: center;
+    align-items: center;
+    table 
+    {
+        text-align: center;
+        color: blueviolet;
+        border-collapse: collapse;
+    
+      thead 
+      {
+        th 
+        {
+            padding: 10px;
+            border: 1px solid blueviolet;
+            max-height: 150px;
+        }
+      }
+      tbody 
+      {
+        td 
+        {
+            padding: 10px;
+            border: 1px solid blueviolet;
+            max-height: 150px;
+            
+            .update-link-icon
+        {
+            margin-right: 10px;
+        }
+            
+        }
+        img 
+        {
+            height: 50px;
+            width: 50px;
+        }
+        
+      }
+    
+    
+       
+    }
+}
+

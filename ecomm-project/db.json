@@ -18,6 +18,52 @@
       "email": "pawan.tiwari@gmail.com",
       "id": 3
     }
-
+  ],
+  "products": [
+    {
+      "name": "iphone 14",
+      "price": "120000",
+      "color": "silver",
+      "category": "smartphones",
+      "description": "svfv",
+      "image": "https://media.istockphoto.com/id/1661021733/photo/woman-using-mobile-phone-to-control-termostat-at-home.jpg?s=2048x2048&w=is&k=20&c=vXuWkazWTGb-i_TAhsrCCTOucc1bGCtjkVLPikMNeYA=",
+      "id": 1
+    },
+    {
+      "name": "iphone 14",
+      "price": "120000",
+      "color": "silver",
+      "category": "smartphones",
+      "description": "svfv",
+      "image": "https://media.istockphoto.com/id/1661021733/photo/woman-using-mobile-phone-to-control-termostat-at-home.jpg?s=2048x2048&w=is&k=20&c=vXuWkazWTGb-i_TAhsrCCTOucc1bGCtjkVLPikMNeYA=",
+      "id": 2
+    },
+    {
+      "name": "iphone 14",
+      "price": "120000",
+      "color": "silver",
+      "category": "smartphones",
+      "description": "svfv",
+      "image": "https://media.istockphoto.com/id/1661021733/photo/woman-using-mobile-phone-to-control-termostat-at-home.jpg?s=2048x2048&w=is&k=20&c=vXuWkazWTGb-i_TAhsrCCTOucc1bGCtjkVLPikMNeYA=",
+      "id": 3
+    },
+    {
+      "name": "iphone 14",
+      "price": "120000",
+      "color": "silver",
+      "category": "smartphones",
+      "description": "svfv",
+      "image": "https://media.istockphoto.com/id/1661021733/photo/woman-using-mobile-phone-to-control-termostat-at-home.jpg?s=2048x2048&w=is&k=20&c=vXuWkazWTGb-i_TAhsrCCTOucc1bGCtjkVLPikMNeYA=",
+      "id": 4
+    },
+    {
+      "name": "iphone 14",
+      "price": "120000",
+      "color": "silver",
+      "category": "smartphones",
+      "description": "svfv",
+      "image": "https://media.istockphoto.com/id/1661021733/photo/woman-using-mobile-phone-to-control-termostat-at-home.jpg?s=2048x2048&w=is&k=20&c=vXuWkazWTGb-i_TAhsrCCTOucc1bGCtjkVLPikMNeYA=",
+      "id": 5
+    }
   ]
 }

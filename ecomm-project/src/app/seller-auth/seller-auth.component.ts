@@ -27,7 +27,7 @@ export class SellerAuthComponent implements OnInit {
   } 
   login(data:Signup):void
   {
-    
+    this.authError = ""
     this.seller.userLogin(data)
     this.seller.isLoginError.subscribe(isError=> 
     {

@@ -2,7 +2,11 @@
 {
     display: flex;
     justify-content: space-between;
-
+    .logo 
+    {
+        text-decoration: none;
+        color: blueviolet;
+    }
     h1 
     {
         color: blueviolet;

@@ -46,13 +46,10 @@ export class SellerService {
         console.log(result)
         if(result && result.body && result.body.length)
         {
-          console.log('you are inside if')
           localStorage.setItem('seller', JSON.stringify(result.body))
           this.router.navigate(['/seller-home'])
         }
         else{
-          console.log('you are inside else')
-
           this.isLoginError.emit(true)
         }
       })
